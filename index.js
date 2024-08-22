@@ -27,7 +27,7 @@ const server = http.createServer((req, res) => {
             res.setHeader("Location", "/about")
             break;
         case "/contact":
-            path += "contact.html"
+            path += "contact-me.html"
             res.statusCode = 200;
             break;
         default:

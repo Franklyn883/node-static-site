@@ -1,0 +1,1 @@
+This is a simple node.js static app.
